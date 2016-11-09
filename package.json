@@ -1,0 +1,33 @@
+{
+  "name": "youseeu",
+  "version": "1.0.0",
+  "description": "YouSee U Word to HTML utility",
+  "main": "index.js",
+  "dependencies": {
+    "dive": "^0.4.0",
+    "file-save": "^0.2.0",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-header": "^1.7.1",
+    "gulp-htmltidy": "^0.2.2",
+    "html": "0.0.10",
+    "jsdom": "^7.2.0",
+    "mammoth": "^0.3.28-pre.1",
+    "replacestream": "^4.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-debug": "^2.1.2",
+    "gulp-html-replace": "^1.5.5",
+    "gulp-htmltidy": "^0.2.2",
+    "gulp-multinject": "^0.1.0",
+    "gulp-replace": "^0.5.4",
+    "gulp-watch": "^4.3.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Fishwick",
+  "license": "ISC"
+}

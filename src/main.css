@@ -1,0 +1,38 @@
+body {
+    font-size:90%;
+    margin:12px;
+}
+.ui-mobile-viewport{
+    margin:12px;
+}
+.ui-mobile [data-role=page], .ui-mobile [data-role=dialog], .ui-page{
+	top:6px;
+	left:12px;
+	right:12px;
+	width:auto;
+}
+
+.ui-btn{
+	font-size:14px;
+	padding:.5em .7em .5em 2.5em;
+}
+.ui-btn-icon-left:after, .ui-btn-icon-right:after, .ui-btn-icon-top:after, .ui-btn-icon-bottom:after, .ui-btn-icon-notext:after{
+	width:18px;
+	height:18px;
+}
+.ui-icon-plus:after, .ui-icon-minus:after{
+	background-size:60%;
+}
+.ui-collapsible-content p{
+	margin:.5em 0;
+}
+
+blockquote{
+	background-color:#efefef;
+	padding:6px 12px;
+}
+li{
+   padding-bottom:8px;
+}
+
+
